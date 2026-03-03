@@ -52,3 +52,8 @@ An intelligent access control system that:
 ---
 
 > Leveraging AI-assisted development tools while maintaining deep understanding of system architecture and implementation.
+
+---
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prince061196&show_icons=true)
