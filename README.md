@@ -56,4 +56,6 @@ An intelligent access control system that:
 ---
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prince061196&layout=compact&theme=tokyonight)
+## 📊 GitHub Stats
+
+![Prince's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Prince061196&show_icons=true&theme=tokyonight&count_private=true)
