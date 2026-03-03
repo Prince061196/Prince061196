@@ -1,57 +1,62 @@
 # 👋 Hi, I'm Prince Chikandiwa
 
-🚀 AI & IoT Automation Developer | Backend Engineer | Software Engineering Graduate  
-
-I build intelligent systems that combine Artificial Intelligence, Backend Development, and IoT hardware integration to solve real-world automation problems.
-
----
-
-## 🔥 Core Expertise
-
-- AI-powered Computer Vision systems (YOLO + OCR)
-- Backend development using Flask
-- MySQL database integration
-- Arduino-based IoT automation
-- Real-time system architecture
+🎓 Software Engineering Graduate  
+🚀 AI & IoT Automation Developer  
+🔍 Focused on Computer Vision, Intelligent Systems & Backend Engineering  
 
 ---
 
-## 🚧 Featured Project
+## 💡 What I Build
 
-### Automated Vehicle Barrier System (AI + IoT)
+I design and implement intelligent automation systems that combine:
+
+- Artificial Intelligence (Computer Vision)
+- Backend APIs and Databases
+- Embedded Systems (Arduino)
+- Real-time decision-based automation
+
+---
+
+## 🚧 Flagship Project
+
+### 🔥 Automated Vehicle Barrier System (AI + IoT)
 
 An intelligent access control system that:
 
 - Detects vehicles using YOLO
-- Reads license plates using PaddleOCR
-- Logs data into MySQL
-- Controls a physical barrier via Arduino
+- Recognizes license plates via PaddleOCR
+- Logs entry data in MySQL
+- Controls a physical barrier using Arduino
+- Streams live dashboard via Flask
 
-**Tech Stack:** Python | Flask | YOLO | PaddleOCR | MySQL | Arduino
+This project demonstrates full-stack AI integration with embedded hardware.
 
 ---
 
 ## 🛠 Technical Stack
 
-**Backend:** Python, Flask  
+**Languages:** Python  
+**Backend:** Flask  
 **AI/CV:** YOLO, PaddleOCR  
 **Database:** MySQL  
 **IoT:** Arduino, Serial Communication  
 **Frontend:** HTML, CSS  
-**Tools:** Git, GitHub, XAMPP  
+**Tools:** Git, GitHub  
 
 ---
 
-## 🎯 Career Direction
+## 🎯 Career Objective
 
-- AI Automation Engineer  
-- Backend Developer  
-- Computer Vision Engineer  
-- Intelligent Systems Engineer  
+Seeking opportunities in:
+
+- AI Engineering
+- Computer Vision
+- Backend Development
+- Intelligent Systems & Automation
 
 ---
 
-> Leveraging AI-assisted development tools while maintaining deep understanding of system architecture and implementation.
+> I leverage AI-assisted development tools while maintaining strong understanding of system architecture, implementation, and optimization.
 
 ---
 ## 📊 GitHub Stats
