@@ -56,6 +56,4 @@ An intelligent access control system that:
 ---
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 ![Prince's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Prince061196&show_icons=true&theme=tokyonight&count_private=true)
